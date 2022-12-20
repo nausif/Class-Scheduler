@@ -1,0 +1,11 @@
+C:\Users\NOSU\Desktop\Class Scheduler By Nausif AND Mohsin\Class Scheduler By Nausif AND Mohsin\bin\Debug\Class Scheduler By Nausif AND Mohsin.exe
+C:\Users\NOSU\Desktop\Class Scheduler By Nausif AND Mohsin\Class Scheduler By Nausif AND Mohsin\bin\Debug\Class Scheduler By Nausif AND Mohsin.pdb
+C:\Users\NOSU\Desktop\Class Scheduler By Nausif AND Mohsin\Class Scheduler By Nausif AND Mohsin\obj\x86\Debug\Class_Scheduler_By_Nausif_AND_Mohsin.Form1.resources
+C:\Users\NOSU\Desktop\Class Scheduler By Nausif AND Mohsin\Class Scheduler By Nausif AND Mohsin\obj\x86\Debug\Class_Scheduler_By_Nausif_AND_Mohsin.Properties.Resources.resources
+C:\Users\NOSU\Desktop\Class Scheduler By Nausif AND Mohsin\Class Scheduler By Nausif AND Mohsin\obj\x86\Debug\Class Scheduler By Nausif AND Mohsin.csproj.GenerateResource.Cache
+C:\Users\NOSU\Desktop\Class Scheduler By Nausif AND Mohsin\Class Scheduler By Nausif AND Mohsin\obj\x86\Debug\Class Scheduler By Nausif AND Mohsin.exe
+C:\Users\NOSU\Desktop\Class Scheduler By Nausif AND Mohsin\Class Scheduler By Nausif AND Mohsin\obj\x86\Debug\Class Scheduler By Nausif AND Mohsin.pdb
+C:\Users\NOSU\Desktop\Class Scheduler By Nausif AND Mohsin\Class Scheduler By Nausif AND Mohsin\obj\x86\Debug\Class Scheduler By Nausif AND Mohsin.csprojResolveAssemblyReference.cache
+C:\Users\NOSU\Desktop\Class Scheduler By Nausif AND Mohsin\Class Scheduler By Nausif AND Mohsin\obj\x86\Debug\Class_Scheduler_By_Nausif_AND_Mohsin.Class_Schedule.resources
+C:\Users\NOSU\Desktop\Class Scheduler By Nausif AND Mohsin\Class Scheduler By Nausif AND Mohsin\obj\x86\Debug\Class_Scheduler_By_Nausif_AND_Mohsin.ControlsForm.resources
+C:\Users\NOSU\Desktop\Class Scheduler By Nausif AND Mohsin\Class Scheduler By Nausif AND Mohsin\obj\x86\Debug\Class_Scheduler_By_Nausif_AND_Mohsin.ShowScheduleForm.resources
